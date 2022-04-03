@@ -1,0 +1,17 @@
+.volume span {
+  color: #fff;
+  background: green;
+  border-radius: 4px;
+  padding: 4px;
+}
+
+.volume span i {
+  margin-right: 4px;
+}
+
+.volume span.percentage {
+  color: green;
+  background: transparent;
+  font-size: 0.8em;
+}
+/*# sourceMappingURL=style.css.map */
