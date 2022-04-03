@@ -1,0 +1,14 @@
+.status {
+    display: inline-block;
+    border-radius: 4px;
+    color: #fff;
+    padding: 4px 16px;
+
+    &.revealed {
+        background: green;
+    }
+    
+    &.unrevealed {
+        background: cornflowerblue;
+    }
+}

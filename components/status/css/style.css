@@ -1,0 +1,15 @@
+.status {
+  display: inline-block;
+  border-radius: 4px;
+  color: #fff;
+  padding: 4px 16px;
+}
+
+.status.revealed {
+  background: green;
+}
+
+.status.unrevealed {
+  background: cornflowerblue;
+}
+/*# sourceMappingURL=style.css.map */
